@@ -1,0 +1,21 @@
+
+<Datas>
+    <save>
+        <OriginalValue>Yardas</OriginalValue>
+        <DataValue>1000000</DataValue>
+        <NewValue>Millas</NewValue>
+        <NewDataValue>568.18</NewDataValue>
+    </save>
+    <save>
+        <OriginalValue>Kilometers</OriginalValue>
+        <DataValue>1</DataValue>
+        <NewValue>Meters</NewValue>
+        <NewDataValue>1000</NewDataValue>
+    </save>
+    <save>
+        <OriginalValue>Millas</OriginalValue>
+        <DataValue>1</DataValue>
+        <NewValue>Metros</NewValue>
+        <NewDataValue>1609.34</NewDataValue>
+    </save>
+</Datas>
